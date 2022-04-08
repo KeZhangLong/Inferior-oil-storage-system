@@ -1,0 +1,16 @@
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\劣质油仓库系统.exe.config
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\劣质油仓库系统.exe
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\劣质油仓库系统.pdb
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.AssemblyReference.cache
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.SuggestedBindingRedirects.cache
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\MainWindow.g.cs
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\App.g.cs
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统_MarkupCompile.cache
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统_MarkupCompile.lref
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\MainWindow.baml
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.g.resources
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.Properties.Resources.resources
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.GenerateResource.cache
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.CoreCompileInputs.cache
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.exe
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.pdb
