@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "劣质油仓库系统", "劣质油仓库系统.csproj", "{55CF2DF5-301D-4B0F-91B1-8DB68F629581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CF2DF5-301D-4B0F-91B1-8DB68F629581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CF2DF5-301D-4B0F-91B1-8DB68F629581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CF2DF5-301D-4B0F-91B1-8DB68F629581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CF2DF5-301D-4B0F-91B1-8DB68F629581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CE8EAA-FFDD-4A7F-92A8-53EE4B641127}
+	EndGlobalSection
+EndGlobal
