@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:劣质油仓库系统"
         mc:Ignorable="d"
-        Title="劣质油仓库管理系统" Height="600" Width="1024" WindowStartupLocation="CenterScreen">
-    <Grid>
-        
-    </Grid>
+        Title="劣质油仓库管理系统" Height="700" Width="1024" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
+        ResizeMode="NoResize" Background="{x:Null}">
+    <Border>
+    </Border>
 </Window>

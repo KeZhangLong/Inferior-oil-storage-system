@@ -1,0 +1,30 @@
+{
+  "id": "3315255",
+  "name": "窗口三件套",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7594034",
+      "name": "24gl-minimization",
+      "font_class": "24gl-minimization",
+      "unicode": "ea6a",
+      "unicode_decimal": 60010
+    },
+    {
+      "icon_id": "17407900",
+      "name": "关闭窗口",
+      "font_class": "guanbichuangkou",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "26079347",
+      "name": "放大窗口",
+      "font_class": "fangdachuangkou",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}
