@@ -39,3 +39,12 @@ D:\VsProject\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\Materia
 D:\VsProject\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignThemes.Wpf.xml
 D:\VsProject\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\App.baml
 D:\VsProject\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.CopyComplete
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignColors.dll
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignColors.pdb
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\View\LoginView.g.cs
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\App.baml
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\View\LoginView.baml
+D:\漂亮事\劣质油仓库系统\Inferior-oil-storage-system\obj\Debug\劣质油仓库系统.csproj.CopyComplete

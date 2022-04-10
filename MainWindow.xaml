@@ -7,6 +7,60 @@
         mc:Ignorable="d"
         Title="劣质油仓库管理系统" Height="700" Width="1024" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
         ResizeMode="NoResize" Background="{x:Null}">
-    <Border>
+    <Border Background="#ffffff" Padding="20 10 20 20" CornerRadius="25">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="1" Background="#3253f1" CornerRadius="10">
+                <Border.Effect>
+                    <DropShadowEffect ShadowDepth="1" BlurRadius="20" Opacity="0.4"/>
+                </Border.Effect>
+                
+                <!--Menu-->
+                <Grid>
+                    <StackPanel>
+                        <Button Style="{StaticResource menuButton}"
+                                Margin="15 20 15 20" Background="#ffffff">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                        <Button Style="{StaticResource menuButton}">
+                            <Label/>
+                        </Button>
+                    </StackPanel>
+
+                    <Button Style="{StaticResource menuButton}"
+                            VerticalAlignment="Bottom"
+                            Margin="15">
+                        <Label/>
+                    </Button>
+                </Grid>
+            </Border>
+            
+            <!--Page 1-->
+            <Border>
+                
+            </Border>
+        </Grid>
     </Border>
 </Window>

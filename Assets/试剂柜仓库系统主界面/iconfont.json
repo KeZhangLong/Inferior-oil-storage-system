@@ -1,0 +1,86 @@
+{
+  "id": "3316043",
+  "name": "试剂柜仓库系统主界面",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "712223",
+      "name": "调拨",
+      "font_class": "icon-transfer",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3239733",
+      "name": "入库",
+      "font_class": "ruku",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3239735",
+      "name": "调拨入库",
+      "font_class": "tiaoboruku",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5024127",
+      "name": "柜子",
+      "font_class": "guizi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "5387487",
+      "name": "钥匙",
+      "font_class": "yuechi",
+      "unicode": "eae6",
+      "unicode_decimal": 60134
+    },
+    {
+      "icon_id": "6241652",
+      "name": "出库管理",
+      "font_class": "chukuguanli",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6297001",
+      "name": "新出库",
+      "font_class": "xinchuku",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6548555",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "11441202",
+      "name": "仓库库存",
+      "font_class": "cangkukucun",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "11488168",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "28251715",
+      "name": "编码操作",
+      "font_class": "bianma",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
